@@ -9,6 +9,9 @@ CRN: 22280
 Here is the link to the document with description: 
 https://docs.google.com/document/d/1TV2THIIs_ORVnZZqmLTo8aph7YjTl7KxdNYaHv7oF6A/edit?usp=sharing
 
+Here is the link to the video with short explanation:
+https://drive.google.com/file/d/1NP2D_7F5iaR2rBKVbj-VbZ2t6oT5vaVX/view
+
 Here is the link to the source code:
 https://drive.google.com/file/d/1j5QvAxFKpjrjeKVCrFW-3pOOXtmQ9dnx/view?usp=sharing
 
